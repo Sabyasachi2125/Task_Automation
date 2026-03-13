@@ -1,0 +1,11 @@
+Hello,
+
+You can contact our support team at support@example.com for assistance.
+
+For technical queries reach us at tech.team@test.org.
+
+Sales department: sales@company.com
+
+If you have feedback, email feedback@service.net.
+
+Thank you!
