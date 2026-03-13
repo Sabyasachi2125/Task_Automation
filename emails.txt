@@ -1,0 +1,4 @@
+support@example.com
+tech.team@test.org
+sales@company.com
+feedback@service.net
